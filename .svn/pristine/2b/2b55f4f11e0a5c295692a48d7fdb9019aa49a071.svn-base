@@ -1,4 +1,4 @@
-# $Id: PKGBUILD 248895 2015-10-11 22:03:18Z dan $
+# $Id$
 # Maintainer: Dan McGee <dan@archlinux.org>
 
 pkgbase=postgresql
